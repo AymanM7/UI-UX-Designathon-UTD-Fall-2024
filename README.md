@@ -70,9 +70,6 @@ Log various income sources: part-time jobs, freelance, scholarships, investments
 ### 📈 Spending Insights  
 Spending visualized through clean charts and summaries.
 
-### 🔝 Expense Prioritization  
-Rank expenses by importance and reflect on discretionary vs essential spending.
-
 ### 💳 Apple Pay (Concept Integration)  
 Quick-pay concept via Apple Pay to automatically log transactions.
 
@@ -87,7 +84,7 @@ Quick-pay concept via Apple Pay to automatically log transactions.
 
 
 ## Acess the Project Presentation 
-## 🎞️ [View the BudgetBuddy Project Presentation (Canva)](https://www.canva.com/design/DAGpK6ONLNg/y8On52BLSLG6I5svUqw8Iw/edit?utm_content=DAGpK6ONLNg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) _(opens in new tab)_
+## 🎞️ [View the BudgetBuddy Project Presentation (Canva)](https://www.canva.com/design/DAGpK6ONLNg/y8On52BLSLG6I5svUqw8Iw/edit?utm_content=DAGpK6ONLNg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 ---
 
