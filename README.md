@@ -84,6 +84,10 @@ Quick-pay concept via Apple Pay to automatically log transactions.
 ## 🎨 Access the Design  
 🔗 **https://devpost.com/software/buddybudget ** – View full user flows, UI mockups, and the interactive prototype.
 
+
+## Acess the Project Presentation 
+https://www.canva.com/design/DAGpK6ONLNg/y8On52BLSLG6I5svUqw8Iw/edit?utm_content=DAGpK6ONLNg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ---
 
 ## 🏆 What We Built During the Designathon  
