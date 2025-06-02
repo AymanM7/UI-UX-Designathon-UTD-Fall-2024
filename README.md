@@ -23,7 +23,7 @@ Students face a common challenge: managing finances with irregular income (from 
 ## 🔁 PM Lifecycle & MVP Strategy  
 
 ### 🔍 Discovery & Research  
-- Conducted informal interviews with UT Dallas students  
+- Conducted research with UT Dallas students  
 - Identified pain points: inconsistent income, lack of visual budget feedback, and overwhelming UX in most apps  
 
 ### 💡 MVP Definition (MoSCoW Framework)
