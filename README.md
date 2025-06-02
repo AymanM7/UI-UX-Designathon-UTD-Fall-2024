@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 Introduction  
+## 🧠 Introduction
 **BudgetBuddy** is a smart, student-centric budgeting assistant designed during the **Fall 2024 UI/UX Designathon on November 9th through November 10th at the University of Texas at Dallas**. Our goal: empower students to take control of their finances through a beautifully simple, AI-enhanced app experience tailored for college life.
 
 The project was built in **Figma** and grounded in real student feedback to simulate the full product lifecycle—from problem discovery and feature prioritization to design and future roadmap definition.
