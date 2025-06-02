@@ -84,7 +84,7 @@ Spending visualized through clean charts and summaries.
 ![Screenshot 2025-06-02 125530](https://github.com/user-attachments/assets/7da172f5-35ac-4160-b386-9ff119fece8d)
 
 ###  🧾 Account Overview Page
-Overview of acceisble features within the prototype for the user.
+Overview of accesible features within the prototype for the user.
 
 ![Screenshot 2025-06-02 125543](https://github.com/user-attachments/assets/c6fac652-a1c1-472d-a2cf-69d6f5fc7cae)
 
