@@ -119,7 +119,6 @@ Next phases for BudgetBuddy:
 - Gamified savings challenges  
 - Predictive analytics and forecasts  
 - Collaborative budgeting with roommates
-
 ---
 
 ## 🛠️ Tools & Tech Stack  
