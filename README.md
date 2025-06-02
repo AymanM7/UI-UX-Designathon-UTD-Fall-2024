@@ -100,7 +100,7 @@ Next phases for BudgetBuddy:
 - Real-time banking integration  
 - Gamified savings challenges  
 - Predictive analytics and forecasts  
-- Collaborative budgeting with roommates  
+- Collaborative budgeting with roommates
 
 ---
 
