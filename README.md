@@ -83,11 +83,11 @@ Quick-pay concept via Apple Pay to automatically log transactions.
 ## 🔗 [View the Devpost Submission Here](https://devpost.com/software/buddybudget)
 
 ## Access the Prototype on Figma (Use arrow keys to move through the prototype.)
-## 🧩 [View the Figma Prototype of BudgetBuddy](https://www.figma.com/proto/qxVcBQJho3pEvettDlZSm1/BuddyBudget----Financial-Budgeting-App?node-id=41-365&p=f&t=w3VEN3BKoPPg3Cji-1&scaling=scale-down&content-scaling=fixed&page-id=25%3A1026&starting-point-node-id=41%3A365&show-proto-sidebar=1) _(opens in new tab)_
+## 🧩 [View the Figma Prototype of BudgetBuddy](https://www.figma.com/proto/qxVcBQJho3pEvettDlZSm1/BuddyBudget----Financial-Budgeting-App?node-id=41-365&p=f&t=w3VEN3BKoPPg3Cji-1&scaling=scale-down&content-scaling=fixed&page-id=25%3A1026&starting-point-node-id=41%3A365&show-proto-sidebar=1) 
 
 
 ## Acess the Project Presentation 
-https://www.canva.com/design/DAGpK6ONLNg/y8On52BLSLG6I5svUqw8Iw/edit?utm_content=DAGpK6ONLNg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+## 🎞️ [View the BudgetBuddy Project Presentation (Canva)](https://www.canva.com/design/DAGpK6ONLNg/y8On52BLSLG6I5svUqw8Iw/edit?utm_content=DAGpK6ONLNg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) _(opens in new tab)_
 
 ---
 
