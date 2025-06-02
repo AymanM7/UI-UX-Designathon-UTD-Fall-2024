@@ -17,7 +17,7 @@ Students face a common challenge: managing finances with irregular income (from 
 
 ---
 
-## 🔁 PM Lifecycle & MVP Strategy  
+## 🔁  MVP Strategy  
 
 ### 🔍 Discovery & Research  
 - Conducted research with UT Dallas students  
@@ -79,7 +79,8 @@ Quick-pay concept via Apple Pay to automatically log transactions.
 ---
 
 ## 🎨 Access the Devpost Sumbission  
-🔗 **https://devpost.com/software/buddybudget ** – View full user flows, UI mockups, and the interactive prototype.
+
+🔗 <a href="https://https://devpost.com/software/buddybudget" target="_blank">View the Devpost Submission Here</a>
 
 ## Access the Prototype on Figma (Use arrow keys to move through the prototype.)
 
