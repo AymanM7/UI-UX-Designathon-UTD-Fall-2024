@@ -83,7 +83,7 @@ Quick-pay concept via Apple Pay to automatically log transactions.
 ---
 
 ## 🎨 Access the Design  
-🔗 **[Figma Prototype](https://www.figma.com)** – View full user flows, UI mockups, and the interactive prototype.
+🔗 **https://devpost.com/software/buddybudget ** – View full user flows, UI mockups, and the interactive prototype.
 
 ---
 
