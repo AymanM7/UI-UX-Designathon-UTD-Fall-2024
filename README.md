@@ -58,20 +58,35 @@ Used **Figma** to create high-fidelity mockups and an interactive prototype cove
 ### 📊 Semester Dashboard  
 Visual overview of budget, expenses, and savings progress.
 
+![Screenshot 2025-06-02 125321](https://github.com/user-attachments/assets/9de82084-cef7-455e-8f7d-9c388368347f)
+
+
+
 ### 🧮 Budget Planner  
 Classify and track expenses by priority (Essentials, Lifestyle, Flex Spending).
+
+
+![Screenshot 2025-06-02 125342](https://github.com/user-attachments/assets/ce73a51b-79f9-490a-9da8-ff8614ac11b2)
 
 ### 💬 AI Chatbot Assistant  
 An embedded chatbot that provides personalized budgeting suggestions.
 
+![Screenshot 2025-06-02 125431](https://github.com/user-attachments/assets/a097e6c4-3824-43b1-912e-47a2c1c30247)
+
 ### 🏦 Income Tracker  
 Log various income sources: part-time jobs, freelance, scholarships, investments.
+
+![Screenshot 2025-06-02 125449](https://github.com/user-attachments/assets/5b112260-fa21-422f-8572-b3aa91a8c62f)
 
 ### 📈 Spending Insights  
 Spending visualized through clean charts and summaries.
 
-### 💳 Apple Pay (Concept Integration)  
-Quick-pay concept via Apple Pay to automatically log transactions.
+![Screenshot 2025-06-02 125530](https://github.com/user-attachments/assets/7da172f5-35ac-4160-b386-9ff119fece8d)
+
+###  🧾 Account Overview Page
+
+![Screenshot 2025-06-02 125543](https://github.com/user-attachments/assets/c6fac652-a1c1-472d-a2cf-69d6f5fc7cae)
+
 
 ---
 
