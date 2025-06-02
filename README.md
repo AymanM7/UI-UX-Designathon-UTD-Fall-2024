@@ -80,7 +80,7 @@ Quick-pay concept via Apple Pay to automatically log transactions.
 
 ## 🎨 Access the Devpost Sumbission  
 
-🔗 <a href="https://https://devpost.com/software/buddybudget" target="_blank">View the Devpost Submission Here</a>
+## 🔗 [View the Devpost Submission Here](https://devpost.com/software/buddybudget)
 
 ## Access the Prototype on Figma (Use arrow keys to move through the prototype.)
 
