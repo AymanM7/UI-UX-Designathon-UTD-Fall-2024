@@ -53,10 +53,9 @@ Used **Figma** to create high-fidelity mockups and an interactive prototype cove
 - Onboarding  
 - Budget dashboard  
 - Chatbot interactions  
-- Apple Pay mock integration  
+- Apple Pay mock integration
 
 ---
-
 ## 🚀 Features  
 
 ### 📊 Semester Dashboard  
