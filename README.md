@@ -3,7 +3,7 @@ BudgetBuddy is a student-first budgeting and financial wellness tool, designed t
 
 
 # 💸 BudgetBuddy – Student Budgeting Made Simple  
-**Designed at the Fall 2024 UI/UX Designathon | UT Dallas**  
+**Designed at the Fall 2024 UI/UX Designathon Competition | UT Dallas**  
 📅 *November 9–10, 2024*
 
 ---
