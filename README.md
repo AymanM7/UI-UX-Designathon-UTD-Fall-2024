@@ -12,7 +12,7 @@ The project was built in **Figma** and grounded in real student feedback to simu
 
 ---
 
-## 🎯 Problem Statement  
+## 🎯 Problem Statement 
 Students face a common challenge: managing finances with irregular income (from part-time jobs, scholarships, etc.) and impulsive spending habits. Most budgeting tools on the market are either too complex or not designed for student life.
 
 ---
