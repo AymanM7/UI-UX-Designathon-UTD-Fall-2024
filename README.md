@@ -113,6 +113,21 @@ This project demonstrates:
 
 ---
 
+## 🚧 Challenges Faced
+Designing BudgetBuddy in 24 hours during the Fall 2024 UI/UX Designathon came with its own set of unique hurdles:
+
+⏱️ Time Constraints
+Crafting an entire product experience—including research, ideation, wireframing, prototyping, and user flows—within two days demanded rapid decision-making and extreme focus on prioritization.
+
+🧠 Balancing Simplicity with Functionality
+Designing for students meant keeping the interface clean and intuitive, while still including enough features to be genuinely useful. Striking this balance required multiple iterations and scope trims.
+
+🎨 Visual Consistency Across Screens
+With team members working on different sections of the prototype simultaneously, maintaining a cohesive visual language required tight coordination and last-minute design alignments.
+
+🛠 Tool Constraints
+Figma was a powerful prototyping tool, but simulating complex logic like income forecasting, gamification, or dynamic visual updates required creative workarounds within static mockups.
+
 ## 🔭 Future Roadmap  
 Next phases for BudgetBuddy:
 - Real-time banking integration  
